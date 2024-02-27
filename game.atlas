@@ -1,0 +1,202 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Congress
+  rotate: false
+  xy: 212, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Council
+  rotate: false
+  xy: 320, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Doomsday missiles storage
+  rotate: false
+  xy: 536, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Open Doomsday missiles storage
+  rotate: false
+  xy: 536, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Seal Doomsday missiles storage forever
+  rotate: false
+  xy: 536, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Old era armor factory
+  rotate: false
+  xy: 1832, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Old era factory
+  rotate: false
+  xy: 4, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Old era recycling center
+  rotate: false
+  xy: 1940, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Old era weapons factory
+  rotate: false
+  xy: 212, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rebuild Earth plan
+  rotate: false
+  xy: 320, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Soviet Aerospace Base
+  rotate: false
+  xy: 428, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Soviet Fusion Reactor
+  rotate: false
+  xy: 536, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Win the War plan
+  rotate: false
+  xy: 752, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/USSR
+  rotate: false
+  xy: 644, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Doomsday Missile
+  rotate: false
+  xy: 428, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ICBM
+  rotate: false
+  xy: 428, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Nuclear Missile
+  rotate: false
+  xy: 428, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Giant Death Robot
+  rotate: false
+  xy: 644, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Helicopter Gunship
+  rotate: false
+  xy: 752, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Jet Fighter
+  rotate: false
+  xy: 860, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Mechanized Infantry
+  rotate: false
+  xy: 968, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Missile Cruiser
+  rotate: false
+  xy: 1076, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Mobile SAM
+  rotate: false
+  xy: 1184, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Modern Armor
+  rotate: false
+  xy: 1292, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Nuclear Submarine
+  rotate: false
+  xy: 1400, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Rocket Artillery
+  rotate: false
+  xy: 1508, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Stealth Bomber
+  rotate: false
+  xy: 1616, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Old era Tank
+  rotate: false
+  xy: 1724, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
