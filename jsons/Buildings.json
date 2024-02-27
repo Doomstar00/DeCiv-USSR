@@ -14,7 +14,7 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city",
 			"Provides [5] [Uranium]",
-			"Provides [10] [Encrypted Data]"
+			"Provides [10] [Encrypted Data]",
 			"Provides [10] [Oil]",
 			"Provides [10] [Aluminum]"
     ]
@@ -253,7 +253,8 @@
 		"cost": 1000,
 		"uniques": ["Only available <in cities with a [Doomsday missiles storage]>", 
 			"Only available <in cities without a [Seal Doomsday missiles storage forever]>", 
-    "[8] free [Doomsday Missile] units appear"
+    "[8] free [Doomsday Missile] units appear",
+			"Provides [40] [Uranium]"
 		],
 		"quote": "Хранилище оказалось ракетной базой с несколькими ракетами (на каждой из которых можно было бы полететь на Луну), и чертежами от них. Хранилище, судя по всему, было запечатанно его работниками, которые не хотели допустить конца света, который, как они считали, могут вызвать эти ракеты. Старое правительство после некоторых раздумий согласилось с ними, и возможно не зря.",
 		"civilopediaText": [
