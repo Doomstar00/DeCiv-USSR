@@ -27,7 +27,7 @@
 		"science": 1,
 		"culture": 1,
 		"cost": 1,
-		"uniques": ["Unsellable", 
+		"uniques": ["Unsellable", "Gain a free [Converted capital factories] [in this city]", 
     "Only available <before [10] turns>", 
       "Limited to [1] per Civilization",
     "[5] population [in this city]"
@@ -42,7 +42,7 @@
 		"science": 1,
 		"food": 1,
 		"cost": 1,
-		"uniques": ["Unsellable", 
+		"uniques": ["Unsellable", "Gain a free [Converted advanced factories] [in this city]", 
     "Only available <before [15] turns>", 
       "Limited to [3] per Civilization",
     "[5] population [in this city]"
@@ -55,7 +55,7 @@
 		"cityHealth": 10,
 		"food": 1,
 		"cost": 1,
-		"uniques": ["Unsellable", 
+		"uniques": ["Unsellable", "Gain a free [Converted regular factories] [in this city]", 
       "Limited to [5] per Civilization",
     "Only available <before [20] turns>", 
     "[4] population [in this city]",
@@ -184,8 +184,8 @@
 		"hurryCostModifier": 0,
 		"uniques": ["Unavailable", "Unbuildable", //"Cannot be purchased",
 			"Provides [-1] [Uranium]", 
-			"[+50]% Production when constructing [Armor] units [in this city]",
-			"[+50]% Production when constructing [Armor] units [in this city] <when above [-2] [Power]>"
+			"[-50]% Production when constructing [Armor] units [in this city]",
+			"[-50]% Production when constructing [Armor] units [in this city] <when above [-2] [Power]>"
 		]
 	},
 	{
